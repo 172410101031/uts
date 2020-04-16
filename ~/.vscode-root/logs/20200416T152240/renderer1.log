@@ -1,0 +1,1 @@
+[2020-04-16 15:22:45.113] [renderer1] [error] ENOENT: no such file or directory, unlink '/home/bang/.local/share/vsliveshare/cascade.json': Error: ENOENT: no such file or directory, unlink '/home/bang/.local/share/vsliveshare/cascade.json'
